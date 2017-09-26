@@ -1,0 +1,103 @@
+@media (max-width: 1200px) {
+	 
+    
+}
+
+@media (max-width: 1000px) {
+
+
+}
+
+@media (max-width: 991px) {
+	.sidebar-toggle {
+    display: block;
+   }
+   .left-side-bar {
+   	width: 100%;
+   }
+   .product-right {
+   	width: 100%;
+   }
+   ul.nav-pills.affix {
+   	position: static !important;
+   }
+   ul.nav-pills {
+   	width: 100%;
+   }
+   .right-sidebar {
+   		width: 100%;
+   }	
+	
+.navi li{
+	background: none!important;
+}
+
+.navi li a{
+	background: none!important;
+	transition:all ease-out 0.5s;
+}
+
+.navi li a:hover{
+	background: rgba(28, 28, 28, 0.9) none repeat scroll 0 0 !important;
+}
+
+.navi > li.active > a{
+	background: rgba(28, 28, 28, 0.9) none repeat scroll 0 0 !important;
+}
+
+
+p{
+	text-align:left;
+}
+
+
+
+}
+
+@media (max-width: 800px) {
+
+	
+}
+
+@media (max-width: 768px) {
+	
+
+	
+	
+}
+
+@media (max-width: 767px) {
+	
+	
+	
+	
+	
+.complain_form_text {
+  padding: 10px 0 10px 18px !important;
+}	
+	
+.footer_bot_text {
+  float:none !important;
+}
+
+}
+
+@media (max-width: 568px) {
+
+}
+
+@media (max-width: 480px) {
+	
+	 
+
+}
+
+@media (max-width: 360px) {
+
+
+}
+
+@media (max-width: 320px) {
+
+
+}
