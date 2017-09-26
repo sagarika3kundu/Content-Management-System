@@ -1,5 +1,5 @@
 # Content-Management-System
-##The main aim of this Project is to develop a website with
+## The main aim of this Project is to develop a website with
 
 1. Dyanamic Web Pages
 
